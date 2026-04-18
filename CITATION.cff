@@ -1,1 +1,31 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software itself."
+type: software
+title: "Wastewater Surveillance with Regression Kriging"
+abstract: "Spatial prediction of COVID-19 cases using wastewater monitoring data in Ekurhuleni, South Africa. Implements Regression Kriging and compares against OLS, GAM, and Random Forest models."
+authors:
+  - family-names: "Mofokeng"
+    given-names: "Odey R."
+    affiliation: "School of Actuarial Science and Statistics, University of the Witwatersrand, South Africa"
+  - family-names: "Docrat"
+    given-names: "Raeesa"
+    affiliation: "School of Statistics and Actuarial Science, University of the Witwatersrand, South Africa; SEPIMOD"
+  - family-names: "Fabris-Rotelli"
+    given-names: "Inger"
+    affiliation: "Department of Statistics, University of Pretoria, South Africa; SEPIMOD"
+  - family-names: "Rose"
+    given-names: "David"
+    affiliation: "School of Statistics and Actuarial Science, University of the Witwatersrand, South Africa; SEPIMOD"
+repository-code: "https://github.com/odeymofokeng-wits/wastewater-rk-covid"
+license: MIT
+version: 1.0.0
+date-released: "2026-04-18"
+keywords:
+  - "wastewater surveillance"
+  - "COVID-19"
+  - "regression kriging"
+  - "spatial statistics"
+  - "geostatistics"
+  - "public health"
+  - "South Africa"
+  - "SEPIMOD"
